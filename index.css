@@ -33,6 +33,7 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
+        width: 100%;
     }
     .countdownTime .HeadingName{
         font-size: 50px;
@@ -43,5 +44,6 @@
     .timedisplayed h1{
         text-align: left;
         margin-bottom: 5%;
+        margin: 5%;
     }
 }
